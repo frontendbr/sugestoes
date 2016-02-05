@@ -1,4 +1,4 @@
-# Eventos
+# Sugestões
 
-Lista de eventos, meetups, encontros e qualquer tipo de aglomeração de frontend.
+Aqui você pode deixar comentários ou sugestões sobre nossa organização ou dos outros repositórios.
  
