@@ -6,8 +6,12 @@
 
 Aqui você pode deixar comentários ou sugestões sobre nossa organização ou dos outros repositórios.
 
-________
-#### Repositórios da Front-End Brasil
+ 
+## Licença
+
+[MIT](LICENSE.md) &copy; FrontendBR
+
+## Repositórios da Front-End Brasil
 
 - [Fórum](https://github.com/frontendbr/forum)
 - [Eventos](https://github.com/frontendbr/eventos)
