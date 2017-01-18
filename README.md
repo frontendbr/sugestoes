@@ -5,6 +5,7 @@
 # Sugestões
 
 Aqui você pode deixar comentários ou sugestões sobre nossa organização ou dos outros repositórios.
+
 ________
 #### Repositórios da Front-End Brasil
 
@@ -14,4 +15,5 @@ ________
 - [Doe um livro](https://github.com/frontendbr/doe-um-livro)
 - [Poste mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
+- [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
