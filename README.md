@@ -1,10 +1,8 @@
 <p align="center">
-  <img src="https://avatars0.githubusercontent.com/u/16963863?v=3&s=200.jpg" alt="FrontEndBR" width="230" />
+<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
-
-# Sugestões
-
-Aqui você pode deixar comentários ou sugestões sobre nossa organização ou dos outros repositórios.
+<h1 align="center">Sugestões</h1>
+<p align="center">:mailbox: Sugestões ou comentários sobre nossa organização ou dos outros repositórios.</p>
 
  
 ## Licença
