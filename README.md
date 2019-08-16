@@ -19,5 +19,4 @@
 - [Doe um Livro](https://github.com/frontendbr/doe-um-livro)
 - [Poste Mais!](https://github.com/frontendbr/poste-mais)
 - [Open Source](https://github.com/frontendbr/open-source)
-- [Front-End Week](https://github.com/frontendbr/frontendweek)
 - [Sugestões](https://github.com/frontendbr/sugestoes)
