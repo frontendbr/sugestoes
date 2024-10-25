@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/frontendbr/brand/blob/master/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
+<img src="https://raw.githubusercontent.com/frontendbr/brand/main/src/png/logo-600px--horizontal--color.png" width="400" alt="Front-end Brasil">
 </p>
 <h1 align="center">Sugestões</h1>
 <p align="center">:mailbox: Sugestões ou comentários sobre nossa organização ou dos outros repositórios.</p>
